@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FetchContacts</string>
+    <string name="name">Name</string>
+    <string name="number">Number</string>
+    <string name="submit">Submit</string>
+    <string name="enterNamePlease">Enter contact name please</string>
+    <string name="enterNumberPlease">Enter number please</string>
+    <string name="cancel">Cancel</string>
+    <string name="addNewContact">Add Contact</string>
+    <string name="contactBook">Contact Book</string>
+    <string name="phonebook">Fetch Your Contacts \n Need your permission to access your contacts.</string>
+    <string name="phonebook_granted">Fetch Your Contacts \n App have required permission,you just need to click</string>
+    <string name="givePermission">Give permission</string>
+    <string name="fetchContacts">Fetch Contacts</string>
+    <string name="pleaseIsRequiredToProcessFurther">Permission is required to process futher.</string>
+    <string name="noContacts">No contacts</string>
+    <string name="gettingContactsInBackground">Getting your contacts\nPlease wait</string>
+</resources>
